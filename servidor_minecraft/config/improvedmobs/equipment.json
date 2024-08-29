@@ -1,0 +1,1496 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "alexsmobs:skelewag_sword": [
+      1226,
+      -1.808
+    ],
+    "alexsmobs:tendon_whip": [
+      1225,
+      -1.8
+    ],
+    "bedrockplus:impurebedrock_axe": [
+      1,
+      10.368
+    ],
+    "bedrockplus:impurebedrock_sword": [
+      1,
+      8.88
+    ],
+    "born_in_chaos_v1:dark_ritual_dagger": [
+      1048,
+      -0.384
+    ],
+    "born_in_chaos_v1:darkwarblade": [
+      1,
+      14.816
+    ],
+    "born_in_chaos_v1:great_reaper_axe": [
+      778,
+      1.776
+    ],
+    "born_in_chaos_v1:intoxicating_dagger": [
+      970,
+      0.24
+    ],
+    "born_in_chaos_v1:nightmare_scythe": [
+      898,
+      0.816
+    ],
+    "born_in_chaos_v1:sharpened_dark_metal_sword": [
+      928,
+      0.576
+    ],
+    "born_in_chaos_v1:shell_mace": [
+      1062,
+      -0.496
+    ],
+    "born_in_chaos_v1:skullbreaker_hammer": [
+      540,
+      3.68
+    ],
+    "born_in_chaos_v1:soul_cutlass": [
+      1090,
+      -0.72
+    ],
+    "born_in_chaos_v1:soulbane": [
+      88,
+      7.296
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      1188,
+      -1.504
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      1,
+      67432.945
+    ],
+    "born_in_chaos_v1:wood_splitter_axe": [
+      1027,
+      -0.216
+    ],
+    "butchersdelight:cleaver": [
+      1342,
+      -2.736
+    ],
+    "deeperdarker:warden_axe": [
+      294,
+      5.648
+    ],
+    "deeperdarker:warden_sword": [
+      406,
+      4.752
+    ],
+    "evilcraft:spikey_claws": [
+      1223,
+      -1.784
+    ],
+    "evilcraft:vein_sword": [
+      1362,
+      -2.896
+    ],
+    "goblins:goblin_axe": [
+      1372,
+      -2.976
+    ],
+    "goblins:goblin_knife": [
+      1228,
+      -1.824
+    ],
+    "graveyard:bone_dagger": [
+      1298,
+      -2.384
+    ],
+    "grimoireofgaia:cursed_metal_sword": [
+      1248,
+      -1.984
+    ],
+    "grimoireofgaia:metal_club": [
+      1183,
+      -1.464
+    ],
+    "grimoireofgaia:metal_dagger": [
+      1327,
+      -2.616
+    ],
+    "grimoireofgaia:minotaur_hammer": [
+      975,
+      0.2
+    ],
+    "grimoireofgaia:weapon_book": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_battle": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_ender": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_freezing": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_hunger": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_metal": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_nature": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_nightmare": [
+      1066,
+      -0.528
+    ],
+    "grimoireofgaia:weapon_book_wither": [
+      1066,
+      -0.528
+    ],
+    "hmag:crimson_bow": [
+      1012,
+      0.0
+    ],
+    "hmag:golden_fork": [
+      1392,
+      -3.136
+    ],
+    "hmag:insomnia_sword": [
+      869,
+      1.048
+    ],
+    "hmag:iron_spear": [
+      1263,
+      -2.104
+    ],
+    "hmag:nemesis_blade": [
+      552,
+      3.584
+    ],
+    "immersiveengineering:axe_steel": [
+      943,
+      0.456
+    ],
+    "immersiveengineering:sword_steel": [
+      1065,
+      -0.52
+    ],
+    "minecraft:bow": [
+      1108,
+      0.0
+    ],
+    "minecraft:crossbow": [
+      1000,
+      0.0
+    ],
+    "minecraft:diamond_axe": [
+      693,
+      2.456
+    ],
+    "minecraft:diamond_sword": [
+      789,
+      1.688
+    ],
+    "minecraft:enchanted_book": [
+      1100,
+      0.0
+    ],
+    "minecraft:golden_axe": [
+      1248,
+      -1.984
+    ],
+    "minecraft:golden_sword": [
+      1362,
+      -2.896
+    ],
+    "minecraft:iron_axe": [
+      1087,
+      -0.696
+    ],
+    "minecraft:iron_sword": [
+      1225,
+      -1.8
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:netherite_axe": [
+      498,
+      4.016
+    ],
+    "minecraft:netherite_sword": [
+      602,
+      3.184
+    ],
+    "minecraft:snowball": [
+      1400,
+      0.0
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      1050,
+      0.0
+    ],
+    "minecraft:stone_axe": [
+      1122,
+      -0.976
+    ],
+    "minecraft:stone_sword": [
+      1298,
+      -2.384
+    ],
+    "minecraft:tnt": [
+      800,
+      0.0
+    ],
+    "minecraft:trident": [
+      900,
+      0.0
+    ],
+    "minecraft:wooden_axe": [
+      1240,
+      -1.92
+    ],
+    "minecraft:wooden_sword": [
+      1354,
+      -2.832
+    ],
+    "mowziesmobs:blowgun": [
+      1150,
+      0.0
+    ],
+    "mowziesmobs:wrought_axe": [
+      1087,
+      -0.696
+    ],
+    "mysticalagriculture:awakened_supremium_axe": [
+      1,
+      16.728
+    ],
+    "mysticalagriculture:awakened_supremium_bow": [
+      1300,
+      0.0
+    ],
+    "mysticalagriculture:awakened_supremium_crossbow": [
+      1000,
+      0.0
+    ],
+    "mysticalagriculture:awakened_supremium_scythe": [
+      1,
+      14.488
+    ],
+    "mysticalagriculture:awakened_supremium_sword": [
+      1,
+      13.416
+    ],
+    "mysticalagriculture:creative_soulium_dagger": [
+      1,
+      81.256
+    ],
+    "mysticalagriculture:diamond_scythe": [
+      743,
+      2.056
+    ],
+    "mysticalagriculture:hostile_soulium_dagger": [
+      868,
+      1.056
+    ],
+    "mysticalagriculture:imperium_axe": [
+      1,
+      19.616
+    ],
+    "mysticalagriculture:imperium_bow": [
+      1,
+      0.0
+    ],
+    "mysticalagriculture:imperium_crossbow": [
+      1000,
+      0.0
+    ],
+    "mysticalagriculture:imperium_scythe": [
+      1,
+      18.144
+    ],
+    "mysticalagriculture:imperium_sword": [
+      1,
+      17.456
+    ],
+    "mysticalagriculture:inferium_axe": [
+      450,
+      4.4
+    ],
+    "mysticalagriculture:inferium_bow": [
+      300,
+      0.0
+    ],
+    "mysticalagriculture:inferium_crossbow": [
+      1000,
+      0.0
+    ],
+    "mysticalagriculture:inferium_scythe": [
+      562,
+      3.504
+    ],
+    "mysticalagriculture:inferium_sword": [
+      612,
+      3.104
+    ],
+    "mysticalagriculture:passive_soulium_dagger": [
+      868,
+      1.056
+    ],
+    "mysticalagriculture:prudentium_axe": [
+      82,
+      7.344
+    ],
+    "mysticalagriculture:prudentium_bow": [
+      1,
+      0.0
+    ],
+    "mysticalagriculture:prudentium_crossbow": [
+      1000,
+      0.0
+    ],
+    "mysticalagriculture:prudentium_scythe": [
+      210,
+      6.32
+    ],
+    "mysticalagriculture:prudentium_sword": [
+      268,
+      5.856
+    ],
+    "mysticalagriculture:soulium_dagger": [
+      1138,
+      -1.104
+    ],
+    "mysticalagriculture:supremium_axe": [
+      1,
+      11.368
+    ],
+    "mysticalagriculture:supremium_bow": [
+      1300,
+      0.0
+    ],
+    "mysticalagriculture:supremium_crossbow": [
+      1000,
+      0.0
+    ],
+    "mysticalagriculture:supremium_scythe": [
+      1,
+      9.448
+    ],
+    "mysticalagriculture:supremium_sword": [
+      1,
+      8.536
+    ],
+    "mysticalagriculture:tertium_axe": [
+      1,
+      12.0
+    ],
+    "mysticalagriculture:tertium_bow": [
+      1,
+      0.0
+    ],
+    "mysticalagriculture:tertium_crossbow": [
+      1000,
+      0.0
+    ],
+    "mysticalagriculture:tertium_scythe": [
+      1,
+      10.784
+    ],
+    "mysticalagriculture:tertium_sword": [
+      1,
+      10.224
+    ],
+    "sons_of_sins:butcher_cleaver": [
+      627,
+      2.984
+    ],
+    "sons_of_sins:ether_sword": [
+      778,
+      1.776
+    ],
+    "sons_of_sins:flesh_axe": [
+      1072,
+      -0.576
+    ],
+    "sons_of_sins:flesh_sword": [
+      1176,
+      -1.408
+    ],
+    "sons_of_sins:osseous_axe": [
+      1126,
+      -1.008
+    ],
+    "sons_of_sins:osseous_sword": [
+      1302,
+      -2.416
+    ],
+    "sons_of_sins:sickle_of_struggle": [
+      1126,
+      -1.008
+    ],
+    "sons_of_sins:sinful_axe": [
+      1162,
+      -1.296
+    ],
+    "sons_of_sins:sinful_sword": [
+      1258,
+      -2.064
+    ],
+    "twilightforest:diamond_minotaur_axe": [
+      639,
+      2.888
+    ],
+    "twilightforest:ender_bow": [
+      1108,
+      0.0
+    ],
+    "twilightforest:fiery_sword": [
+      904,
+      0.768
+    ],
+    "twilightforest:giant_sword": [
+      680,
+      2.56
+    ],
+    "twilightforest:glass_sword": [
+      1,
+      26.976
+    ],
+    "twilightforest:gold_minotaur_axe": [
+      1248,
+      -1.984
+    ],
+    "twilightforest:ice_bow": [
+      1108,
+      0.0
+    ],
+    "twilightforest:ice_sword": [
+      1225,
+      -1.8
+    ],
+    "twilightforest:ironwood_axe": [
+      1008,
+      -0.064
+    ],
+    "twilightforest:ironwood_sword": [
+      1146,
+      -1.168
+    ],
+    "twilightforest:knightmetal_axe": [
+      954,
+      0.368
+    ],
+    "twilightforest:knightmetal_sword": [
+      1104,
+      -0.832
+    ],
+    "twilightforest:seeker_bow": [
+      1108,
+      0.0
+    ],
+    "twilightforest:steeleaf_axe": [
+      1068,
+      -0.544
+    ],
+    "twilightforest:steeleaf_sword": [
+      1218,
+      -1.744
+    ],
+    "twilightforest:triple_bow": [
+      1108,
+      0.0
+    ],
+    "undead_unleashed:grave_metal_axe": [
+      973,
+      0.216
+    ],
+    "undead_unleashed:grave_metal_sword": [
+      1138,
+      -1.104
+    ],
+    "undead_unleashed:moonlight_greatsword": [
+      520,
+      3.84
+    ],
+    "undead_unleashed:reaping_scythe": [
+      786,
+      1.712
+    ],
+    "vampirism:basic_crossbow": [
+      1000,
+      0.0
+    ],
+    "vampirism:basic_double_crossbow": [
+      1000,
+      0.0
+    ],
+    "vampirism:basic_tech_crossbow": [
+      1000,
+      0.0
+    ],
+    "vampirism:enhanced_crossbow": [
+      1000,
+      0.0
+    ],
+    "vampirism:enhanced_double_crossbow": [
+      1000,
+      0.0
+    ],
+    "vampirism:enhanced_tech_crossbow": [
+      1000,
+      0.0
+    ],
+    "vampirism:heart_seeker_enhanced": [
+      687,
+      2.504
+    ],
+    "vampirism:heart_seeker_normal": [
+      1108,
+      -0.864
+    ],
+    "vampirism:heart_seeker_ultimate": [
+      412,
+      4.704
+    ],
+    "vampirism:heart_striker_enhanced": [
+      637,
+      2.904
+    ],
+    "vampirism:heart_striker_normal": [
+      1062,
+      -0.496
+    ],
+    "vampirism:heart_striker_ultimate": [
+      358,
+      5.136
+    ],
+    "vampirism:hunter_axe_enhanced": [
+      581,
+      3.352
+    ],
+    "vampirism:hunter_axe_normal": [
+      975,
+      0.2
+    ],
+    "vampirism:hunter_axe_ultimate": [
+      440,
+      4.48
+    ],
+    "vampirism:pitchfork": [
+      1087,
+      -0.696
+    ],
+    "vampirism:stake": [
+      1410,
+      -3.28
+    ],
+    "werewolves:silver_axe": [
+      1112,
+      -0.896
+    ],
+    "werewolves:silver_sword": [
+      1244,
+      -1.952
+    ]
+  },
+  "OFFHAND": {
+    "grimoireofgaia:bone_shield": [
+      1350,
+      0.0
+    ],
+    "grimoireofgaia:gold_shield": [
+      1350,
+      0.0
+    ],
+    "grimoireofgaia:iron_shield": [
+      1350,
+      0.0
+    ],
+    "grimoireofgaia:stone_shield": [
+      1350,
+      0.0
+    ],
+    "hmag:ancient_shield": [
+      1350,
+      0.0
+    ],
+    "hmag:fortress_shield": [
+      1350,
+      0.0
+    ],
+    "minecraft:ender_pearl": [
+      1100,
+      0.0
+    ],
+    "minecraft:flint_and_steel": [
+      1200,
+      0.0
+    ],
+    "minecraft:lava_bucket": [
+      900,
+      0.0
+    ],
+    "minecraft:shield": [
+      1350,
+      0.0
+    ],
+    "twilightforest:knightmetal_shield": [
+      1350,
+      0.0
+    ]
+  },
+  "FEET": {
+    "alexsmobs:flying_fish_boots": [
+      1298,
+      -2.384
+    ],
+    "alexsmobs:roadrunner_boots": [
+      737,
+      2.104
+    ],
+    "bedrockplus:impurebedrock_boots": [
+      1,
+      19.624
+    ],
+    "born_in_chaos_v1:dark_metal_armor_boots": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_boots": [
+      207,
+      6.344
+    ],
+    "deeperdarker:warden_boots": [
+      1,
+      12.984
+    ],
+    "hmag:ancient_boots": [
+      4,
+      7.968
+    ],
+    "hmag:necrotic_chainmail_boots": [
+      647,
+      2.824
+    ],
+    "immersiveengineering:armor_faraday_feet": [
+      1366,
+      -2.928
+    ],
+    "immersiveengineering:armor_steel_feet": [
+      505,
+      3.96
+    ],
+    "minecraft:chainmail_boots": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_boots": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_boots": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_boots": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_boots": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_boots": [
+      361,
+      5.112
+    ],
+    "mysticalagriculture:awakened_supremium_boots": [
+      1,
+      54.36
+    ],
+    "mysticalagriculture:imperium_boots": [
+      1,
+      25.016
+    ],
+    "mysticalagriculture:inferium_boots": [
+      1,
+      9.12
+    ],
+    "mysticalagriculture:prudentium_boots": [
+      1,
+      12.944
+    ],
+    "mysticalagriculture:supremium_boots": [
+      1,
+      41.104
+    ],
+    "mysticalagriculture:tertium_boots": [
+      1,
+      17.944
+    ],
+    "sons_of_sins:remnant_boots": [
+      199,
+      6.408
+    ],
+    "tconstruct:plate_boots": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:slime_boots": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:travelers_boots": [
+      1500,
+      -4.0
+    ],
+    "thermal:beekeeper_boots": [
+      1313,
+      -2.504
+    ],
+    "thermal:diving_boots": [
+      976,
+      0.192
+    ],
+    "thermal:hazmat_boots": [
+      1055,
+      -0.44
+    ],
+    "twilightforest:arctic_boots": [
+      688,
+      2.496
+    ],
+    "twilightforest:fiery_boots": [
+      1,
+      10.144
+    ],
+    "twilightforest:ironwood_boots": [
+      606,
+      3.152
+    ],
+    "twilightforest:knightmetal_boots": [
+      245,
+      6.04
+    ],
+    "twilightforest:steeleaf_boots": [
+      378,
+      4.976
+    ],
+    "twilightforest:yeti_boots": [
+      143,
+      6.856
+    ],
+    "undead_unleashed:grave_metal_boots": [
+      1,
+      9.024
+    ],
+    "undead_unleashed:shadow_boots": [
+      173,
+      6.616
+    ],
+    "vampirism:armor_of_swiftness_feet_enhanced": [
+      686,
+      2.512
+    ],
+    "vampirism:armor_of_swiftness_feet_normal": [
+      1183,
+      -1.464
+    ],
+    "vampirism:armor_of_swiftness_feet_ultimate": [
+      191,
+      6.472
+    ],
+    "vampirism:hunter_coat_feet_enhanced": [
+      146,
+      6.832
+    ],
+    "vampirism:hunter_coat_feet_normal": [
+      677,
+      2.584
+    ],
+    "vampirism:hunter_coat_feet_ultimate": [
+      1,
+      9.272
+    ],
+    "vampirism:vampire_clothing_boots": [
+      1180,
+      -1.44
+    ]
+  },
+  "LEGS": {
+    "alexsmobs:centipede_leggings": [
+      1,
+      13.328
+    ],
+    "alexsmobs:emu_leggings": [
+      520,
+      3.84
+    ],
+    "bedrockplus:impurebedrock_leggings": [
+      1,
+      19.624
+    ],
+    "born_in_chaos_v1:dark_metal_armor_leggings": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_leggings": [
+      207,
+      6.344
+    ],
+    "deeperdarker:warden_leggings": [
+      1,
+      12.984
+    ],
+    "hmag:ancient_leggings": [
+      4,
+      7.968
+    ],
+    "hmag:necrotic_chainmail_leggings": [
+      647,
+      2.824
+    ],
+    "immersiveengineering:armor_faraday_legs": [
+      1366,
+      -2.928
+    ],
+    "immersiveengineering:armor_steel_legs": [
+      505,
+      3.96
+    ],
+    "minecraft:chainmail_leggings": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_leggings": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_leggings": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_leggings": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_leggings": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_leggings": [
+      361,
+      5.112
+    ],
+    "mysticalagriculture:awakened_supremium_leggings": [
+      1,
+      54.36
+    ],
+    "mysticalagriculture:imperium_leggings": [
+      1,
+      25.016
+    ],
+    "mysticalagriculture:inferium_leggings": [
+      1,
+      9.12
+    ],
+    "mysticalagriculture:prudentium_leggings": [
+      1,
+      12.944
+    ],
+    "mysticalagriculture:supremium_leggings": [
+      1,
+      41.104
+    ],
+    "mysticalagriculture:tertium_leggings": [
+      1,
+      17.944
+    ],
+    "sons_of_sins:remnant_leggings": [
+      199,
+      6.408
+    ],
+    "tconstruct:plate_leggings": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:slime_leggings": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:travelers_leggings": [
+      1500,
+      -4.0
+    ],
+    "thermal:beekeeper_leggings": [
+      1313,
+      -2.504
+    ],
+    "thermal:diving_leggings": [
+      976,
+      0.192
+    ],
+    "thermal:hazmat_leggings": [
+      1055,
+      -0.44
+    ],
+    "twilightforest:arctic_leggings": [
+      688,
+      2.496
+    ],
+    "twilightforest:fiery_leggings": [
+      1,
+      10.144
+    ],
+    "twilightforest:ironwood_leggings": [
+      606,
+      3.152
+    ],
+    "twilightforest:knightmetal_leggings": [
+      245,
+      6.04
+    ],
+    "twilightforest:naga_leggings": [
+      423,
+      4.616
+    ],
+    "twilightforest:steeleaf_leggings": [
+      378,
+      4.976
+    ],
+    "twilightforest:yeti_leggings": [
+      143,
+      6.856
+    ],
+    "undead_unleashed:grave_metal_leggings": [
+      1,
+      9.024
+    ],
+    "undead_unleashed:shadow_leggings": [
+      173,
+      6.616
+    ],
+    "vampirism:armor_of_swiftness_legs_enhanced": [
+      686,
+      2.512
+    ],
+    "vampirism:armor_of_swiftness_legs_normal": [
+      1183,
+      -1.464
+    ],
+    "vampirism:armor_of_swiftness_legs_ultimate": [
+      191,
+      6.472
+    ],
+    "vampirism:hunter_coat_legs_enhanced": [
+      146,
+      6.832
+    ],
+    "vampirism:hunter_coat_legs_normal": [
+      677,
+      2.584
+    ],
+    "vampirism:hunter_coat_legs_ultimate": [
+      1,
+      9.272
+    ],
+    "vampirism:vampire_clothing_legs": [
+      1180,
+      -1.44
+    ]
+  },
+  "CHEST": {
+    "alexsmobs:crocodile_chestplate": [
+      194,
+      6.448
+    ],
+    "alexsmobs:rocky_chestplate": [
+      256,
+      5.952
+    ],
+    "alexsmobs:tarantula_hawk_elytra": [
+      897,
+      0.824
+    ],
+    "alexsmobs:unsettling_kimono": [
+      900,
+      0.8
+    ],
+    "bedrockplus:impurebedrock_chestplate": [
+      1,
+      19.624
+    ],
+    "born_in_chaos_v1:dark_metal_armor_chestplate": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_chestplate": [
+      207,
+      6.344
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_chestplate": [
+      985,
+      0.12
+    ],
+    "deeperdarker:warden_chestplate": [
+      1,
+      12.984
+    ],
+    "hmag:ancient_chestplate": [
+      4,
+      7.968
+    ],
+    "hmag:necrotic_chainmail_chestplate": [
+      647,
+      2.824
+    ],
+    "immersiveengineering:armor_faraday_chest": [
+      1366,
+      -2.928
+    ],
+    "immersiveengineering:armor_steel_chest": [
+      505,
+      3.96
+    ],
+    "minecraft:chainmail_chestplate": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_chestplate": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_chestplate": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_chestplate": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_chestplate": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_chestplate": [
+      361,
+      5.112
+    ],
+    "mysticalagriculture:awakened_supremium_chestplate": [
+      1,
+      54.36
+    ],
+    "mysticalagriculture:imperium_chestplate": [
+      1,
+      25.016
+    ],
+    "mysticalagriculture:inferium_chestplate": [
+      1,
+      9.12
+    ],
+    "mysticalagriculture:prudentium_chestplate": [
+      1,
+      12.944
+    ],
+    "mysticalagriculture:supremium_chestplate": [
+      1,
+      41.104
+    ],
+    "mysticalagriculture:tertium_chestplate": [
+      1,
+      17.944
+    ],
+    "quark:backpack": [
+      1356,
+      -2.848
+    ],
+    "sons_of_sins:remnant_chestplate": [
+      199,
+      6.408
+    ],
+    "tconstruct:plate_chestplate": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:slime_chestplate": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:travelers_chestplate": [
+      1500,
+      -4.0
+    ],
+    "thermal:beekeeper_chestplate": [
+      1313,
+      -2.504
+    ],
+    "thermal:diving_chestplate": [
+      976,
+      0.192
+    ],
+    "thermal:hazmat_chestplate": [
+      1055,
+      -0.44
+    ],
+    "twilightforest:arctic_chestplate": [
+      688,
+      2.496
+    ],
+    "twilightforest:fiery_chestplate": [
+      1,
+      10.144
+    ],
+    "twilightforest:ironwood_chestplate": [
+      606,
+      3.152
+    ],
+    "twilightforest:knightmetal_chestplate": [
+      245,
+      6.04
+    ],
+    "twilightforest:naga_chestplate": [
+      423,
+      4.616
+    ],
+    "twilightforest:phantom_chestplate": [
+      60,
+      7.52
+    ],
+    "twilightforest:steeleaf_chestplate": [
+      378,
+      4.976
+    ],
+    "twilightforest:yeti_chestplate": [
+      143,
+      6.856
+    ],
+    "undead_unleashed:grave_metal_chestplate": [
+      1,
+      9.024
+    ],
+    "undead_unleashed:shadow_chestplate": [
+      173,
+      6.616
+    ],
+    "vampirism:armor_of_swiftness_chest_enhanced": [
+      686,
+      2.512
+    ],
+    "vampirism:armor_of_swiftness_chest_normal": [
+      1183,
+      -1.464
+    ],
+    "vampirism:armor_of_swiftness_chest_ultimate": [
+      191,
+      6.472
+    ],
+    "vampirism:hunter_coat_chest_enhanced": [
+      146,
+      6.832
+    ],
+    "vampirism:hunter_coat_chest_normal": [
+      677,
+      2.584
+    ],
+    "vampirism:hunter_coat_chest_ultimate": [
+      1,
+      9.272
+    ],
+    "vampirism:vampire_cloak_black_blue": [
+      1180,
+      -1.44
+    ],
+    "vampirism:vampire_cloak_black_red": [
+      1180,
+      -1.44
+    ],
+    "vampirism:vampire_cloak_black_white": [
+      1180,
+      -1.44
+    ],
+    "vampirism:vampire_cloak_red_black": [
+      1180,
+      -1.44
+    ],
+    "vampirism:vampire_cloak_white_black": [
+      1180,
+      -1.44
+    ]
+  },
+  "HEAD": {
+    "alexsmobs:fedora": [
+      1099,
+      -0.792
+    ],
+    "alexsmobs:frontier_cap": [
+      657,
+      2.744
+    ],
+    "alexsmobs:froststalker_helmet": [
+      880,
+      0.96
+    ],
+    "alexsmobs:moose_headgear": [
+      716,
+      2.272
+    ],
+    "alexsmobs:novelty_hat": [
+      1103,
+      -0.824
+    ],
+    "alexsmobs:sombrero": [
+      1036,
+      -0.288
+    ],
+    "alexsmobs:spiked_turtle_shell": [
+      443,
+      4.456
+    ],
+    "bedrockplus:impurebedrock_helmet": [
+      1,
+      19.624
+    ],
+    "born_in_chaos_v1:dark_metal_armor_helmet": [
+      1,
+      15.808
+    ],
+    "born_in_chaos_v1:nightmare_mantleofthe_night_helmet": [
+      207,
+      6.344
+    ],
+    "born_in_chaos_v1:spiny_shell_armor_helmet": [
+      985,
+      0.12
+    ],
+    "deeperdarker:warden_helmet": [
+      1,
+      12.984
+    ],
+    "evilcraft:spectral_glasses": [
+      944,
+      0.448
+    ],
+    "hmag:ancient_helmet": [
+      4,
+      7.968
+    ],
+    "hmag:necrotic_chainmail_helmet": [
+      647,
+      2.824
+    ],
+    "immersiveengineering:armor_faraday_head": [
+      1366,
+      -2.928
+    ],
+    "immersiveengineering:armor_steel_head": [
+      505,
+      3.96
+    ],
+    "minecraft:chainmail_helmet": [
+      1098,
+      -0.784
+    ],
+    "minecraft:diamond_helmet": [
+      444,
+      4.448
+    ],
+    "minecraft:golden_helmet": [
+      1201,
+      -1.608
+    ],
+    "minecraft:iron_helmet": [
+      954,
+      0.368
+    ],
+    "minecraft:leather_helmet": [
+      1356,
+      -2.848
+    ],
+    "minecraft:netherite_helmet": [
+      361,
+      5.112
+    ],
+    "minecraft:turtle_helmet": [
+      865,
+      1.08
+    ],
+    "mowziesmobs:sol_visage": [
+      1231,
+      -1.848
+    ],
+    "mowziesmobs:umvuthana_mask_bliss": [
+      1352,
+      -2.816
+    ],
+    "mowziesmobs:umvuthana_mask_faith": [
+      1352,
+      -2.816
+    ],
+    "mowziesmobs:umvuthana_mask_fear": [
+      1352,
+      -2.816
+    ],
+    "mowziesmobs:umvuthana_mask_fury": [
+      1352,
+      -2.816
+    ],
+    "mowziesmobs:umvuthana_mask_misery": [
+      1352,
+      -2.816
+    ],
+    "mowziesmobs:umvuthana_mask_rage": [
+      1352,
+      -2.816
+    ],
+    "mowziesmobs:wrought_helmet": [
+      1148,
+      -1.184
+    ],
+    "mysticalagriculture:awakened_supremium_helmet": [
+      1,
+      54.36
+    ],
+    "mysticalagriculture:imperium_helmet": [
+      1,
+      25.016
+    ],
+    "mysticalagriculture:inferium_helmet": [
+      1,
+      9.12
+    ],
+    "mysticalagriculture:prudentium_helmet": [
+      1,
+      12.944
+    ],
+    "mysticalagriculture:supremium_helmet": [
+      1,
+      41.104
+    ],
+    "mysticalagriculture:tertium_helmet": [
+      1,
+      17.944
+    ],
+    "quark:forgotten_hat": [
+      1356,
+      -2.848
+    ],
+    "sons_of_sins:remnant_helmet": [
+      199,
+      6.408
+    ],
+    "tconstruct:plate_helmet": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:slime_helmet": [
+      1500,
+      -4.0
+    ],
+    "tconstruct:travelers_helmet": [
+      1500,
+      -4.0
+    ],
+    "thermal:beekeeper_helmet": [
+      1313,
+      -2.504
+    ],
+    "thermal:diving_helmet": [
+      976,
+      0.192
+    ],
+    "thermal:hazmat_helmet": [
+      1055,
+      -0.44
+    ],
+    "twilightforest:arctic_helmet": [
+      688,
+      2.496
+    ],
+    "twilightforest:fiery_helmet": [
+      1,
+      10.144
+    ],
+    "twilightforest:ironwood_helmet": [
+      606,
+      3.152
+    ],
+    "twilightforest:knightmetal_helmet": [
+      245,
+      6.04
+    ],
+    "twilightforest:phantom_helmet": [
+      60,
+      7.52
+    ],
+    "twilightforest:steeleaf_helmet": [
+      378,
+      4.976
+    ],
+    "twilightforest:yeti_helmet": [
+      143,
+      6.856
+    ],
+    "undead_unleashed:grave_metal_helmet": [
+      1,
+      9.024
+    ],
+    "undead_unleashed:shadow_helmet": [
+      173,
+      6.616
+    ],
+    "vampirism:armor_of_swiftness_head_enhanced": [
+      686,
+      2.512
+    ],
+    "vampirism:armor_of_swiftness_head_normal": [
+      1183,
+      -1.464
+    ],
+    "vampirism:armor_of_swiftness_head_ultimate": [
+      191,
+      6.472
+    ],
+    "vampirism:hunter_coat_head_enhanced": [
+      146,
+      6.832
+    ],
+    "vampirism:hunter_coat_head_normal": [
+      677,
+      2.584
+    ],
+    "vampirism:hunter_coat_head_ultimate": [
+      1,
+      9.272
+    ],
+    "vampirism:hunter_hat_head_0": [
+      954,
+      0.368
+    ],
+    "vampirism:hunter_hat_head_1": [
+      954,
+      0.368
+    ],
+    "vampirism:vampire_clothing_crown": [
+      1180,
+      -1.44
+    ],
+    "vampirism:vampire_clothing_hat": [
+      1180,
+      -1.44
+    ]
+  }
+}
